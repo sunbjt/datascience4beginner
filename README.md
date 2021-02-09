@@ -13,5 +13,5 @@
 - [What They Forgot to Teach You About R](https://rstats.wtf/)：一些 R 工程化的技巧，可以一看。
 - [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/)：介绍了在 R 中如何实现常见的机器学习方法。
 - [Awesome R-shiny](https://github.com/grabear/awesome-rshiny)：Shiny 相关的汇总，很值得经常浏览。
-
+- [R 语言教程](https://github.com/sunbjt/datascience4beginner.git)：北京大学李东风老师的《R语言教程》的草稿，
 
