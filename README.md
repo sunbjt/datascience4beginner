@@ -14,5 +14,8 @@
 - [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/)：介绍了在 R 中如何实现常见的机器学习方法。
 - [Awesome R-shiny](https://github.com/grabear/awesome-rshiny)：Shiny 相关的汇总，很值得经常浏览。
 - [R 语言教程](https://www.math.pku.edu.cn/teachers/lidf/docs/Rbook/html/_Rbook/)：北京大学李东风老师的《R语言教程》的草稿，
-- [可解释性机器学习故事（XAI Stories），R 和 Python](https://pbiecek.github.io/xai_stories/)
+- [可解释性机器学习故事（XAI Stories）](https://pbiecek.github.io/xai_stories/)：University of Warsaw 和 the Warsaw University of Technology 的案例课程。R 和 Python 为主要工具。
 
+对于非统计系背景的同学稍有些难度的：
+
+- [https://bookdown.org/hezhijian/book/](数理统计讲义，华南理工大学数学学院何志坚老师的作品，已经是能找到最通俗易懂的讲义了)
