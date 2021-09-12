@@ -1,4 +1,4 @@
-# datascience4beginner
+# 数据科学入门到放弃
 
 数据科学是一项艺术
 
@@ -18,4 +18,5 @@
 
 对于非统计系背景的同学稍有些难度的：
 
-- [https://bookdown.org/hezhijian/book/](数理统计讲义，华南理工大学数学学院何志坚老师的作品，已经是能找到最通俗易懂的讲义了)
+- [https://bookdown.org/hezhijian/book/](数理统计讲义)：华南理工大学数学学院何志坚老师的作品，已经是能找到最通俗易懂的讲义了
+- [https://yufree.cn/sciguide/](现代科研指北)：于淼博士大作，很神奇的关于如何做科研的系统思考。
