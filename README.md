@@ -15,6 +15,7 @@
 - [Awesome R-shiny](https://github.com/grabear/awesome-rshiny)：Shiny 相关的汇总，很值得经常浏览。
 - [R 语言教程](https://www.math.pku.edu.cn/teachers/lidf/docs/Rbook/html/_Rbook/)：北京大学李东风老师的《R语言教程》的草稿，
 - [可解释性机器学习故事（XAI Stories）](https://pbiecek.github.io/xai_stories/)：University of Warsaw 和 the Warsaw University of Technology 的案例课程。R 和 Python 为主要工具。
+- [使用 R 做空间计算](https://bookdown.org/robinlovelace/geocompr/)：空间数据分析、可视化和建模。
 
 对于非统计系背景的同学稍有些难度的：
 
