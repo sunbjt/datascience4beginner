@@ -23,3 +23,4 @@
 
 - [数理统计讲义](https://bookdown.org/hezhijian/book/)：华南理工大学数学学院何志坚老师的作品，已经是能找到最通俗易懂的讲义了
 - [现代科研指北](https://bookdown.org/yufree/sciguide/)：于淼博士大作，很神奇的关于如何做科研的系统思考。
+- [Supervised Machine Learning for Text Analysis in R](https://smltar.com)：作者 EMIL HVITFELDT AND JULIA SILGE，原书的线上版。
