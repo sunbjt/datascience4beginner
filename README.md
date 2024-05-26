@@ -18,6 +18,7 @@
 - [使用 R 做空间计算](https://bookdown.org/robinlovelace/geocompr/)：空间数据分析、可视化和建模。
 - [Introduction to Modern Statistics (2nd Ed)](https://openintro-ims2.netlify.app)：经典的内容能读老外的就读老外的。
 - [Data Science: Theories, Models, Algorithms, and Analytics](https://srdas.github.io/MLBook/)：使用 R 语言完成数据科学项目的课程资料，较为全面。
+- [Introduction to Data Science](https://rafalab.dfci.harvard.edu/dsbook-part-1/)：哈佛大学的同名课程，适用于没有 R 基础的入门小白。
 
 对于非统计系背景的同学稍有些难度的：
 
